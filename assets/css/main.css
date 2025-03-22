@@ -41,7 +41,8 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	overflow-wrap: break-word;
-	height:100vh;
+	height: 100vh;
+	width: 100vw;
   }
   
 .holder {
