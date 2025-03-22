@@ -1,7 +1,9 @@
+izzyhendriks.com
+
 /* TEAM */ 
-This website was built by Izzy Hendriks
-EMAIL: izzy@izzyhendriks.com
+Izzy Hendriks, Netherlands
+Email: izzy@izzyhendriks.com
 
 /* SITE */
-This humans.txt page was last updated on 20 March 2025.
+This humans.txt page was last updated on 22 March 2025.
 Language: English
