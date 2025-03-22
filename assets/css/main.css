@@ -40,7 +40,6 @@ body {
 	background: linear-gradient(135deg, #9ecde6, #84fab0);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	height: 100%;
 	overflow-wrap: break-word;
   }
   
