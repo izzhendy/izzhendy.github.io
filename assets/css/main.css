@@ -46,21 +46,24 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	overflow-wrap: break-word;
   }
   
 
 @media only screen and (max-width: 700px) {
 
 	.holder {
-		width: 450px;
+		max-width: 450px;
 		margin: auto;
 		text-align: center;
+		box-sizing: border-box;
 	}
 
 	.sidebar, .main, .credits, .soon {
 		background: #ffffff80;
 		border-radius: 10px;
 		padding: 10px;
+		box-sizing: border-box;
 	}
 
 	.sidebar {
@@ -71,7 +74,6 @@ body {
 	}
 	
 	.main, .credits, .soon {
-		box-sizing: border-box;
 		display: block;
 		max-width: 450px;
 		text-align: left;
