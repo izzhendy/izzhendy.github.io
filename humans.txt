@@ -1,4 +1,4 @@
-izzyhendriks.com
+SITE: izzyhendriks.com
 
 /* TEAM */ 
 Izzy Hendriks, Netherlands
